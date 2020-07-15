@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.jiomartshop.com	TRUE	/	FALSE	1999999999	__cfduid	d700b41cfe806e5a4e229a9a714c0ef921594580609
+jiomartshop.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
